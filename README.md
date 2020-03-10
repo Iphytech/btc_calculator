@@ -47,3 +47,9 @@ sample response
   }
 } 
 ```
+
+NB:   If you encounter this error message when serving the app `Your Yarn packages are out of date!`
+
+Please run `yarn install --check-files` to update.
+
+

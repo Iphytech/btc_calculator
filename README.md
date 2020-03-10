@@ -11,6 +11,7 @@ go to the terminal and run `bundle or bundle install`
 We are making use of `Net::HTTP ` for the restful api calls - Read more about it here (https://apidock.com/ruby/Net/HTTP)
 
 And we are consuming data from `Coindesk APi endpoint`
+
 Start the project and test what we have built
 
 ```bash
